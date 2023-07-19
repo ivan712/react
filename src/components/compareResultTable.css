@@ -1,0 +1,31 @@
+table,
+th,
+td {
+  border: 1px solid red;
+  border-collapse: collapse;
+  /*   border-collapse: collapse; */
+}
+
+td th {
+  margin: 10px;
+}
+
+table {
+  overflow: hidden;
+  border-radius: 6px;
+  height: 100%;
+}
+
+.table {
+  border: 2px solid red;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.row-dark {
+  background-color: grey;
+}
+
+.row-white {
+  background-color: grey;
+}
